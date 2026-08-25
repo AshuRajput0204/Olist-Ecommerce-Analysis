@@ -70,10 +70,6 @@ The Power BI dashboard provides an interactive view of the Olist e-commerce busi
 - Delivery performance
 - Key business KPIs
 
-Dashboard Preview
-
-Dashboard screenshots are available in the Screenshots folder.
-
 ## Dashboard Screenshots
 
 ### Page 1
@@ -100,7 +96,7 @@ Python and Pandas were used for:
 
 The complete analysis notebook is available in:
 
-"Python/olist_analysis.ipynb"
+"Python/Olist_analysis.ipynb"
 
 🗄️ SQL Analysis
 
@@ -108,7 +104,7 @@ MySQL was used to answer business questions and analyze the Olist dataset throug
 
 The SQL queries are available in:
 
-"SQL/olist_analysis.sql"
+"Sql/Olist_analysis.sql"
 
 📊 Dataset
 
