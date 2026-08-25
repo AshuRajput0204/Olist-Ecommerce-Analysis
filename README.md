@@ -136,6 +136,12 @@ Current Status: In Progress 🚧
 
 The current version contains the analysis and dashboard developed so far. The repository will be updated as new analysis, insights, and improvements are added.
 
+👤 Author
+
+Ashu
+
+Data Analytics / Data Science Enthusiast
+
 ---
 
 Skills Demonstrated
