@@ -74,19 +74,19 @@ Dashboard Preview
 
 Dashboard screenshots are available in the Screenshots folder.
 
-### 📊 Dashboard Preview
+## Dashboard Screenshots
 
-#### Page 1
-![Olist Dashboard/page1](Screenshots/dashboard_page1.png)
+### Page 1
+![Dashboard Page 1](Screenshots/Screenshot%20%289%29.png)
 
-#### Page 2
-![Olist Dashboard/page2](Screenshots/dashboard_page2.png)
+### Page 2
+![Dashboard Page 2](Screenshots/Screenshot%20%2810%29.png)
 
-#### Page 3
-![Olist Dashboard/page3](Screenshots/dashboard_page3.png)
+### Page 3
+![Dashboard Page 3](Screenshots/Screenshot%20%2811%29.png)
 
-#### Page 4
-![Olist Dashboard/page4](Screenshots/dashboard_page4.png)
+### Page 4
+![Dashboard Page 4](Screenshots/Screenshot%20%2812%29.png)
 
 🐍 Python Analysis
 
