@@ -136,14 +136,14 @@ Current Status: In Progress 🚧
 
 The current version contains the analysis and dashboard developed so far. The repository will be updated as new analysis, insights, and improvements are added.
 
+
+Skills Demonstrated
+
+SQL | Python | Pandas | Power BI | Data Analysis | Data Visualization | Business Intelligence
+
+
 👤 Author
 
 Ashu
 
 Data Analytics / Data Science Enthusiast
-
----
-
-Skills Demonstrated
-
-SQL | Python | Pandas | Power BI | Data Analysis | Data Visualization | Business Intelligence
